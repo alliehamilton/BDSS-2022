@@ -1,0 +1,5 @@
+On day 1, we learned about the basics of the Terminal, the command line, and some commands like ssh, rsync, and cd. 
+On day 2, we learned about basic bash scripting, loops, and conditionals. 
+On day 3, we learned about the basics of coding environments, repositories, dependencies, packages, and version control
+
+On day 4, we're learning about git and github. .
